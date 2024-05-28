@@ -1,0 +1,60 @@
+.aliniacion69{
+		padding:18px;
+	}
+
+
+
+.font2{
+	font-family:palatino;
+	font-size:110;
+	Color:#E90D20;
+	}
+	
+	.aliniacion3{
+		padding:70px;
+	}
+
+
+.mycontainer8{
+		font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+		color: #000000; 
+		font-size: 40px; 
+		font-weight: 600; 
+		text-align: center; 
+		background: #66E9C6; 
+		margin: 0 0 130px; 
+		overflow: hidden; 
+		padding: 130px; 
+		width:70%;
+		border-radius: 35px 35px 35px 35px; 
+		-moz-border-radius: 35px 35px 35px 35px; 
+		-webkit-border-radius: 35px 35px 35px 35px; 
+		border: 5px solid #5878ca;	
+	}
+.aliniacion8{
+		padding:70px;
+	}
+.mycontainer81{
+		font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+		color: #000000; 
+		font-size: 18px; 
+		font-weight: 550; 
+		text-align: center; 
+		background: #66E9C6; 
+		margin: 0 0 50px; 
+		overflow: hidden; 
+		padding: 5px; 
+		width:70%;
+		border-radius: 35px 35px 35px 35px; 
+		-moz-border-radius: 35px 35px 35px 35px; 
+		-webkit-border-radius: 35px 35px 35px 35px; 
+		border: 5px solid #5878ca;	
+	}
+	
+	.fcc-btn {
+  background-color: #66E9C6;
+  color: white;
+  padding: 25px 35px;
+  text-decoration: none;
+  border-radius: 15px;
+}
